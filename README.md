@@ -1,2 +1,2 @@
 # Netflix-Landing-Page 
-Live link- https://yashraj176.github.io/Netflix-Landing-Page/
+Deployment Link - https://netflix-landing-page-self.vercel.app/#
